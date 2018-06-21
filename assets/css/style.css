@@ -153,6 +153,10 @@ h3, h2 {
   border: 0 none;
   opacity: 0.8;
 }
+img {
+  max-height: 200px;
+  max-width: 274px;
+}
 
 .work h3 {
   position: absolute;
